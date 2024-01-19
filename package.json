@@ -19,8 +19,11 @@
   "dependencies": {
     "axios": "^1.6.5",
     "commander": "^11.1.0",
+    "consolidate": "^1.0.3",
     "download-git-repo": "^3.0.2",
     "inquirer": "^8.2.6",
+    "metalsmith": "^2.6.2",
+    "ncp": "^2.0.0",
     "ora": "^5.4.0"
   }
 }
